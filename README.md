@@ -52,11 +52,16 @@ IV. Individual Assessment
 Our team members played essential roles in various aspects of the project:
 
 Adam Kosicki (Project Lead): Initiated the project, managed deadlines, implemented saving/loading of student objects, and provided technical contributions to the GUI.
+
 Adrian Sanchez (Transcript and Audit): Responsible for reading transcripts, tokenizing data, and generating the audit report. Worked on printing various audit components.
+
 Jonathan Vu (DegreePlan): Developed the DegreePlan component, generating degree plans from user data and transcripts.
+
 Grant Reed (Application Start and Options): Managed application startup, wrote code for options fields, and assisted with team coordination and motivation.
+
 Jason Vu (Student Class and GUI): Developed the Student class, improved serialization, and designed the GUI for displaying degree plans.
 Michael Wu (Degree Plan GUI): Implemented GUI for the degree plan, allowing for edits and saving/printing the plan.
+
 V. Issues and Lessons Learned
 We have compiled step-by-step instructions in the appendix for installation, usage, and extension of the program. We also learned valuable concepts from previous courses, like regular expressions and Maven for build automation.
 
